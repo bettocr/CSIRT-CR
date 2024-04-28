@@ -11,3 +11,4 @@
 /ip firewall address-list add list=Malicious address=247transferenciasenlinea.rf.gd
 /ip firewall address-list add list=Malicious address=proteccion-de-cuentas-y-firma.web.app
 /ip firewall address-list add list=Malicious address=imagen.png
+/ip firewall address-list add list=Malicious address=
