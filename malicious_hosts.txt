@@ -3,3 +3,4 @@
 # Esta lista no es oficial de CSIRT-CR
 # Desarrollada por @bettocr
 # Hosts file for blocking malicious URLs
+0.0.0.0 onlinetransfer.rf.gd

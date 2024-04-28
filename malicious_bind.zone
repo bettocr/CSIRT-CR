@@ -3,3 +3,4 @@
 # Esta lista no es oficial de CSIRT-CR
 # Desarrollada por @bettocr
 # BIND zone file for blocking malicious URLs
+zone "onlinetransfer.rf.gd" { type master; file "/etc/bind/db.empty"; };
