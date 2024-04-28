@@ -3,7 +3,6 @@
 # Esta lista no es oficial de CSIRT-CR
 # Desarrollada por @bettocr
 # Hosts file for blocking malicious URLs
-0.0.0.0 onlinetransfer.rf.gd
 0.0.0.0 declaracionjurada-go-cr69.webnode.es
 0.0.0.0 proteccion-de-cuentas-y-firma.firebaseapp.com
 0.0.0.0 sistemadecertificacion-mp-pta-cgr-bccr.webnode.page
