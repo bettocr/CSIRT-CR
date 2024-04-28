@@ -3,7 +3,6 @@
 # Esta lista no es oficial de CSIRT-CR
 # Desarrollada por @bettocr
 # BIND zone file for blocking malicious URLs
-zone "onlinetransfer.rf.gd" { type master; file "/etc/bind/db.empty"; };
 zone "declaracionjurada-go-cr69.webnode.es" { type master; file "/etc/bind/db.empty"; };
 zone "proteccion-de-cuentas-y-firma.firebaseapp.com" { type master; file "/etc/bind/db.empty"; };
 zone "sistemadecertificacion-mp-pta-cgr-bccr.webnode.page" { type master; file "/etc/bind/db.empty"; };
