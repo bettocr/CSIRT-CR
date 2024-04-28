@@ -1,1 +1,5 @@
+# Este archivo contiene la lista de URLs Maliciosas reportadas por el CSIRT-CR (Costa Rica)
+# en su grupo de telegram https://t.me/csirtcostarica
+# Esta lista no es oficial de CSIRT-CR
+# Desarrollada por @bettocr
 zone "https://onlinetransfer.rf.gd/" { type master; file "/etc/bind/db.empty"; };
