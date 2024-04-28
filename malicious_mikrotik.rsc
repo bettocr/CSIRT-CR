@@ -25,3 +25,8 @@
 /ip firewall address-list add list=Malicious address=247transferenciasenlinea.rf.gd
 /ip firewall address-list add list=Malicious address=proteccion-de-cuentas-y-firma.web.app
 /ip firewall address-list add list=Malicious address=imagen.png
+/ip firewall address-list add list=Malicious address=proteccion-de-cuentas-y-firma.firebaseapp.com/
+/ip firewall address-list add list=Malicious address=url02.top/j/XhtpJbvr9741
+/ip firewall address-list add list=Malicious address=certificadosoftware-2023-sicopautoriza.webnode.es/mi-trabajo/
+/ip firewall address-list add list=Malicious address=247transferenciasenlinea.rf.gd/
+/ip firewall address-list add list=Malicious address=proteccion-de-cuentas-y-firma.web.app/

@@ -30,3 +30,8 @@ zone "certificadosoftware-2023-sicopautoriza.webnode.es" { type master; file "/e
 zone "247transferenciasenlinea.rf.gd" { type master; file "/etc/bind/db.empty"; };
 zone "proteccion-de-cuentas-y-firma.web.app" { type master; file "/etc/bind/db.empty"; };
 zone "imagen.png" { type master; file "/etc/bind/db.empty"; };
+zone "proteccion-de-cuentas-y-firma.firebaseapp.com/" { type master; file "/etc/bind/db.empty"; };
+zone "url02.top/j/XhtpJbvr9741" { type master; file "/etc/bind/db.empty"; };
+zone "certificadosoftware-2023-sicopautoriza.webnode.es/mi-trabajo/" { type master; file "/etc/bind/db.empty"; };
+zone "247transferenciasenlinea.rf.gd/" { type master; file "/etc/bind/db.empty"; };
+zone "proteccion-de-cuentas-y-firma.web.app/" { type master; file "/etc/bind/db.empty"; };

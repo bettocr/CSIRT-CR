@@ -30,3 +30,8 @@
 0.0.0.0 247transferenciasenlinea.rf.gd
 0.0.0.0 proteccion-de-cuentas-y-firma.web.app
 0.0.0.0 imagen.png
+0.0.0.0 proteccion-de-cuentas-y-firma.firebaseapp.com/
+0.0.0.0 url02.top/j/XhtpJbvr9741
+0.0.0.0 certificadosoftware-2023-sicopautoriza.webnode.es/mi-trabajo/
+0.0.0.0 247transferenciasenlinea.rf.gd/
+0.0.0.0 proteccion-de-cuentas-y-firma.web.app/
