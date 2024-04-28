@@ -12,6 +12,6 @@ Versiones de la lista:
 - [RPZ Zone](https://blocklist.betto.me/malicious_rpz.zone "RPZ Zone")
 - [AdBlock](https://blocklist.betto.me/malicious_urls.adblock "AdBlock")
 - [TXT](https://blocklist.betto.me/malicious_urls.txt "TXT")
-- [Mikrotik](https://bloacklist.betto.me/malicious_mikrotik.rsc)
+- [Mikrotik](https://blocklist.betto.me/malicious_mikrotik.rsc)
 
 Invitame un Café: [Paypal](https://www.paypal.me/bettome "Paypal")
