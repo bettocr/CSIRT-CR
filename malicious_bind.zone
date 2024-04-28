@@ -1,0 +1,1 @@
+zone "https://onlinetransfer.rf.gd/" { type master; file "/etc/bind/db.empty"; };
