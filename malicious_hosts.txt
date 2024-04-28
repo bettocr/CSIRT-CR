@@ -3,40 +3,12 @@
 # Esta lista no es oficial de CSIRT-CR
 # Desarrollada por @bettocr
 # Hosts file for blocking malicious URLs
-0.0.0.0 declaracionjurada-go-cr69.webnode.es
-0.0.0.0 proteccion-de-cuentas-y-firma.firebaseapp.com
-0.0.0.0 sistemadecertificacion-mp-pta-cgr-bccr.webnode.page
-0.0.0.0 procesodetranparencia-ministeriopublico-cgrley8422.webnode.page
-0.0.0.0 contraloriageneraldelarepublicaley8422.webnode.page
-0.0.0.0 url02.top
-0.0.0.0 tramites-bancarios.webnode.cr
-0.0.0.0 tramitedeliberaciondetransfere.godaddysites.com
-0.0.0.0 certificadosoftware-2023-sicopautoriza.webnode.es
-0.0.0.0 247transferenciasenlinea.rf.gd
-0.0.0.0 proteccion-de-cuentas-y-firma.web.app
-0.0.0.0 formulariomunicipal.com
-0.0.0.0 registrobncr.com
-0.0.0.0 soporte2023.webnode.page
-0.0.0.0 https-formularioexoneracionhacienda2023declaracionordinaria.webnode.page
-0.0.0.0 new.express.adobe.com
-0.0.0.0 linkr.it
-0.0.0.0 gestionautonomaugl.com
-0.0.0.0 coopealianzavirtuacrcitaprevia.webnode.es
-0.0.0.0 tidycommitmentrecruit.com
-0.0.0.0 sites.google.com
-0.0.0.0 dev-oficinavirtualsistenbcr.pantheonsite.io
-0.0.0.0 seinsel.com
-0.0.0.0 guidesuman.com
-0.0.0.0 sites.google.com
-0.0.0.0 solicitudcitagrupopurdy.webnode.es
-0.0.0.0 enlineabncr-com.webnode.es
-0.0.0.0 firmadigital.site
 0.0.0.0 onlinetransfer.rf.gd
 0.0.0.0 declaracionjurada-go-cr69.webnode.es
 0.0.0.0 proteccion-de-cuentas-y-firma.firebaseapp.com
-0.0.0.0 contraloriageneraldelarepublicaley8422.webnode.page
 0.0.0.0 sistemadecertificacion-mp-pta-cgr-bccr.webnode.page
 0.0.0.0 procesodetranparencia-ministeriopublico-cgrley8422.webnode.page
+0.0.0.0 contraloriageneraldelarepublicaley8422.webnode.page
 0.0.0.0 url02.top
 0.0.0.0 tramites-bancarios.webnode.cr
 0.0.0.0 tramitedeliberaciondetransfere.godaddysites.com
