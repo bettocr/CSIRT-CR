@@ -15,3 +15,4 @@
 0.0.0.0 certificadosoftware-2023-sicopautoriza.webnode.es
 0.0.0.0 247transferenciasenlinea.rf.gd
 0.0.0.0 proteccion-de-cuentas-y-firma.web.app
+0.0.0.0 infocosevi.co.cr
