@@ -15,6 +15,3 @@ zone "tramitedeliberaciondetransfere.godaddysites.com" { type master; file "/etc
 zone "certificadosoftware-2023-sicopautoriza.webnode.es" { type master; file "/etc/bind/db.empty"; };
 zone "247transferenciasenlinea.rf.gd" { type master; file "/etc/bind/db.empty"; };
 zone "proteccion-de-cuentas-y-firma.web.app" { type master; file "/etc/bind/db.empty"; };
-zone ".co.cr" { type master; file "/etc/bind/db.empty"; };
-zone "".go.cr"" { type master; file "/etc/bind/db.empty"; };
-zone "infocosevi.co.cr" { type master; file "/etc/bind/db.empty"; };
